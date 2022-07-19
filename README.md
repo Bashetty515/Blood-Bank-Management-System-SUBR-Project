@@ -15,7 +15,7 @@ This project is created for two users: Donors/Receivers and Hospitals/Clinics(Do
 3. Java Jdk
 
 ## :question: How to start?
-1. Download this code as a zip file.
+1. Download this code as a zip file into your local system.
 2. Place this entire folder in htdocs, in xampp(xampp path, installed as per your installation). 
 3. Open Xampp server, start Apache, MySQL.
 4. In the MySQL row, select Admin.
