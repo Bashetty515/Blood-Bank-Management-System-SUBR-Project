@@ -38,7 +38,7 @@ This project is created for two users: Donors/Receivers and Hospitals/Clinics(Do
 - Ram Middidoddi
 - Sri Laxmi Miryala
 - Lakshmi Pooja Bodireddy
-- Venkat Gummaidhala
+- Venkat Gummadidala
 
 
 ## If you liked the project and found it helpful
