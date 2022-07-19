@@ -32,12 +32,12 @@ This project is created for two users: Donors/Receivers and Hospitals/Clinics(Do
 
 ## :family_man_woman_boy_boy: Team:
 - Arun BASHETTY - [Arun](https://github.com/Bashetty515)
-- Akshay  
-- Sindhu  
-- Chandrakanth 
-- RAM
-- Sri Laxmi
-- Lakshmi Pooja
+- Akshay Surya
+- Sindhu Rangineni
+- Chandrakanth Konduru
+- Ram Middidoddi
+- Sri Laxmi Miryala
+- Lakshmi Pooja Bodireddy
 - Venkat Gummaidhala
 
 
